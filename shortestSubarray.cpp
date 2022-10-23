@@ -96,6 +96,7 @@ int Example4(){
   cout << "Example4: " << result << endl;
   return 0;
 }
+
 int main() {
   Example1();
   Example2();
